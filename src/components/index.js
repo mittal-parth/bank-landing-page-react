@@ -1,5 +1,5 @@
 // This file just imports all components and
-// exports them from one place to make code more readbale
+// exports them from one place to make code more readable
 import Billing  from "./Billing";
 import Business from "./Business";
 import Button from "./Button";
